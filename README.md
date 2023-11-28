@@ -7,4 +7,4 @@ read the source code for the template I used which is from ReadTheDocs* (˚ ˃̣
 
 *Please check the references for more details and credits!
 
-- Group 8's leader ૮ ˶ᵔ ᵕ ᵔ˶ ა
+= Group 8's leader ૮ ˶ᵔ ᵕ ᵔ˶ ა
