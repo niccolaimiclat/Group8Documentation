@@ -112,6 +112,14 @@ img {
     max-width: 100%;
 }
 
+.caption.text {
+    color: #9766ea;
+}
+
+.reference.internal {
+    color: #ffff;
+}
+
 /* -- search page ----------------------------------------------------------- */
 
 ul.search {
@@ -420,6 +428,7 @@ table caption span.caption-number {
 }
 
 table caption span.caption-text {
+    color: #ffff;
 }
 
 table.docutils td, table.docutils th {
@@ -471,7 +480,8 @@ figcaption span.caption-number {
 }
 
 div.figure p.caption span.caption-text,
-figcaption span.caption-text {
+span.caption-text {
+    color: #ffff ;
 }
 
 /* -- field list styles ----------------------------------------------------- */
@@ -854,6 +864,7 @@ div.code-block-caption span.caption-number {
 }
 
 div.code-block-caption span.caption-text {
+    color: #ffff;
 }
 
 div.literal-block-wrapper {
