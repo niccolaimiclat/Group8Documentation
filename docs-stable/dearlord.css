@@ -1,0 +1,32 @@
+
+
+
+
+.source-box {
+    background-color: #8458d6;
+    width: 400px;
+    height: 300px;
+    margin: 5px;
+    align-content: center;
+  }
+
+  .section-text-container {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+  
+  img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+  }
