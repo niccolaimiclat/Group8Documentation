@@ -7,4 +7,6 @@ read the source code for the template I used which is from ReadTheDocs* (˚ ˃̣
 
 *Please check the references for more details and credits!
 
+If you want to run this project locally simply open the index.html file in your browser!
+
 = Group 8's leader ૮ ˶ᵔ ᵕ ᵔ˶ ა
